@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mellow993
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in C#, FORTRAN and Python
+- 💞️ I’m looking to collaborate on C# projects
 - 📫 How to reach me stay.mellow.993@gmail.com
 
 <!---
